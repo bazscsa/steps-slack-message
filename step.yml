@@ -1,7 +1,10 @@
 ---
 title: Send a Slack message
-summary: Send a [Slack](https://slack.com/) message to a channel or group.
-description: |
+summary: |-
+  Notify your team on Slack and spice up your message with a custom sender
+  image or choose one of the awesome Emojis. You can even set different sender
+  name, image and message for builds that failed or succeeded!
+description: |-
   Send a [Slack](https://slack.com/) message to a channel or group.
 
   You have to register an **Incoming WebHook integration** at:
